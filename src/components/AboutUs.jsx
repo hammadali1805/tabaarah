@@ -2,7 +2,7 @@ export const AboutUs = () => {
   return (
     <div className="bg-cream py-10 px-6 md:px-16 lg:px-32 text-slate-700">
       <h2 className="text-center text-4xl md:text-5xl font-medium mb-16 text-green font-serif">
-        About Tabaaraah.com
+        About Tabaarah
       </h2>
 
       {/* Our Story */}

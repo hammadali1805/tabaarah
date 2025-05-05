@@ -274,7 +274,7 @@ export const Cart = () => {
 
                 <div className="border-t pt-4 mt-4">
                   <div className="flex justify-between mb-2">
-                    <span>Subtotal</span>
+                    <span>Price per box</span>
                     <span>₹{totalPrice.toFixed(2)}</span>
                   </div>
                   <div className="flex justify-between font-bold text-lg">

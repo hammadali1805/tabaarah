@@ -13,7 +13,7 @@ export const TopBar = () => {
       <div className="container flex h-16 items-center justify-between sm:px-16 px-6">
         <div className="flex items-center">
           <a href="/" className="flex items-center">
-            <span className="text-2xl font-bold text-green">Tabaarah.com</span>
+            <span className="text-2xl font-bold text-green">Tabaarah</span>
           </a>
         </div>
 

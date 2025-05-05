@@ -3,56 +3,56 @@ export const PRODUCTS = {
     {
       name: "Kalmi",
       price: 8,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "kalmi.jpg"
     },
     {
       name: "Ajwa",
       price: 10,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "ajwa.jpg"
     },
     {
       name: "Sukri",
       price: 6,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "sukri.jpeg"
     }
   ],
   Tasbih: [
     {
-      name: "Shining Beads",
+      name: "100 Shining Beads",
       price: 30,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "shining.png"
     },
     {
       name: "33 Crystal",
       price: 40,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "33crystal.png"
     },
     {
       name: "Electronic",
       price: 30,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "electronic.png"
     }
   ],
   ZamZam: [
     {
       name: "Hard Plastic 60 ml Empty",
       price: 5,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "zamzam_hard.png"
     },
     {
       name: "Hard Plastic 60 ml Filled",
       price: 40,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "zamzam_hard.png"
     },
     {
       name: "Soft Plastic 60 ml Empty",
       price: 2.5,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "zamzam_soft.png"
     },
     {
       name: "Soft Plastic 60 ml Filled",
       price: 35,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "zamzam_soft.png"
     }
   ],
   PrayerCaps: [
@@ -71,14 +71,14 @@ export const PRODUCTS = {
     {
       name: "Miswaq",
       price: 20,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "miswaq.jpg"
     }
   ],
   Attar: [
     {
       name: "Attar",
       price: 30,
-      image: "https://assets.bonappetit.com/photos/5aa97b1e7b904f1c0e1c36ee/master/pass/Basically_Medjool-Dates.jpg"
+      image: "attar.jpg"
     }
   ]
 }

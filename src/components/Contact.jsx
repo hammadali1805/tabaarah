@@ -6,7 +6,7 @@ export const Contact = () => {
     >
       <div className="flex flex-col h-full sm:pb-0 pb-8 sm:pl-0 pl-2">
         <div className="text-green text-xl sm:text-2xl font-bold mb-2">
-          Tabaarah.com
+          Tabaarah
         </div>
         <div className="text-gray-700 sm:text-lg font-light italic mb-3 pl-2">
           Where Gifting is a Bliss
